@@ -3,8 +3,8 @@
 I am a joint master's student of the University of Science and Technology of China(USTC) and the Institute of Automation, Chinese Academy of Sciences.(CASIA)
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>lytmatters@mail.ustc.edu.cn</code>  
+<code>2637874963@qq.com</code>
 
 #### Education  
 **University of Science and Technology of China**, Master of Automation (2024 – now)  
